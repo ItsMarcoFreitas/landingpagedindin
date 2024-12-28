@@ -7,11 +7,19 @@
 
 :root {
   --color-primary-1: #fff9ea;
+<<<<<<< HEAD
   --color-primary-2: #cb6ce6;
   --color-primary-3: #cb6ce6;
   --color-primary-4: #cb6ce6;
   --color-primary-5: #cb6ce6;
   --color-primary-6: #cb6ce6;
+=======
+  --color-primary-2: #7F1D1D;
+  --color-primary-3: #7F1D1D;
+  --color-primary-4: #7F1D1D;
+  --color-primary-5: #ffcb45;
+  --color-primary-6: #7F1D1D;
+>>>>>>> bdf49766bc5f8129b52983088fdc5bd125057dc3
 
   --color-neutral-0: #fff;
   --color-neutral-1: #1d1d1d;
